@@ -1,5 +1,5 @@
 {
-    "name":"gonzalo123/sqlStringGenerator",
+    "name":"gonzalo123/sqlstringgenerator",
     "description":"Write a DSL to generate valid SQL statements for SELECT, INSERT, UPDATE and DELETE",
     "authors":[
         {
